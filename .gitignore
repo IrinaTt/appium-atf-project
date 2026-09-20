@@ -1,0 +1,10 @@
+target/
+.idea/
+*.iml
+.env
+reports/
+screenshots/
+target/cucumber-reports/
+*.apk
+*.aab
+local.properties
